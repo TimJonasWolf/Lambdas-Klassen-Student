@@ -1,0 +1,14 @@
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\bin\Debug\net6.0\Lambdas Klassen Student.exe
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\bin\Debug\net6.0\Lambdas Klassen Student.deps.json
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\bin\Debug\net6.0\Lambdas Klassen Student.runtimeconfig.json
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\bin\Debug\net6.0\Lambdas Klassen Student.dll
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\bin\Debug\net6.0\Lambdas Klassen Student.pdb
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\obj\Debug\net6.0\Lambdas Klassen Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\obj\Debug\net6.0\Lambdas Klassen Student.AssemblyInfoInputs.cache
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\obj\Debug\net6.0\Lambdas Klassen Student.AssemblyInfo.cs
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\obj\Debug\net6.0\Lambdas Klassen Student.csproj.CoreCompileInputs.cache
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\obj\Debug\net6.0\Lambdas Klassen Student.dll
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\obj\Debug\net6.0\refint\Lambdas Klassen Student.dll
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\obj\Debug\net6.0\Lambdas Klassen Student.pdb
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\obj\Debug\net6.0\Lambdas Klassen Student.genruntimeconfig.cache
+C:\Users\Wolf Tim\source\repos\Lambdas Klassen Student\Lambdas Klassen Student\obj\Debug\net6.0\ref\Lambdas Klassen Student.dll
